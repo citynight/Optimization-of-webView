@@ -7,7 +7,7 @@ img{
 }
 
 #mainTitle{
-    text-align:center;
+    text-align:left;
     font-size:20px;
     margin-top:25px;
     margin-bottom:8px;
@@ -15,7 +15,7 @@ img{
 
 #subTitle{
     color:gray;
-    text-align:center;
+    text-align:left;
 }
 
 .time{
